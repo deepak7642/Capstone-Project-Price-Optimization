@@ -6,7 +6,7 @@
 
 #### Tools used - Pandas, Matplotlib, Python and Google Colab.
 
-#### Methodology - Used sklearn to build model.
+#### Methodology - Built Price Optimization Model to boost their sales and revenue.
 
 #### Major Learning - A slight change in Price, Payment value and Freight value will impact their sales and revenue.
 
